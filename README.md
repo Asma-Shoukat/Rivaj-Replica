@@ -16,8 +16,7 @@ This project is a replica of the RIVAJ UK website, created using HTML, CSS, and 
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/rivaj-uk-replica.git
-
+git clone https://github.com/Asma-Shoukat/Rivaj-Replica
 >License
 This project is for educational purposes only and is not affiliated with or endorsed by RIVAJ UK.
 
