@@ -1,5 +1,5 @@
 
-Here's a simple README file for your project:
+
 
 RIVAJ UK Website Replica:
 This project is a replica of the RIVAJ UK website, created using HTML, CSS, and Bootstrap. It is designed to mimic the original website's layout and style.
